@@ -14,4 +14,8 @@ public Class MyTest{
 	test3(){
 		print("test3 method");
 	}
+	
+	test4(){
+		print("test4 method");
+	}
 }
