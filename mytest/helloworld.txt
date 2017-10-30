@@ -10,4 +10,8 @@ public Class MyTest{
 	test2(){
 		print("test2 method");
 	}
+	
+	test3(){
+		print("test3 method");
+	}
 }
