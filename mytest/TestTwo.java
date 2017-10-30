@@ -23,4 +23,9 @@
       
     public int getMaxNum() {  
         return this.maxNum;  
+    }
+
+
+		public int getMaxNum() {  
+        return this.maxNum;  
     }  
