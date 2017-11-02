@@ -14,4 +14,8 @@ public Class TestThread extends Thread{
 		}
 
 	}
+	
+	public void testFour(){
+			sys.print("four");
+	}
 }

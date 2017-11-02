@@ -33,3 +33,7 @@
 	getMyFirstName(){
 		return myFirstName;
 	}
+	
+	getMySecondName(){
+		return mySeconName;
+	}
