@@ -29,3 +29,7 @@
 		public int getMaxNum() {  
         return this.maxNum;  
     }  
+	
+	getMyFirstName(){
+		return myFirstName;
+	}
