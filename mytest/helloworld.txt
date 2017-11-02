@@ -18,4 +18,8 @@ public Class MyTest{
 	test4(){
 		print("test4 method");
 	}
+	
+	test5(){
+		print("test5 method");
+	}
 }
